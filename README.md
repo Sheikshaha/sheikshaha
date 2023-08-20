@@ -16,7 +16,7 @@
 
 - 👨‍💻 [**My Portfolio**](https://sheikshaha.my.canva.site/) 
 
-- 💬 Ask me about **Data Analysis, Data Wrangling, Data Cleansing, Data Visualization, Data Processing, and Project Management.**
+- 💬 Ask me about: **Data Analysis, Data Wrangling, Data Cleansing, Data Visualization, Data Processing, and Project Management.**
 
 - 📫 Contact me **m.sheikshaha@gmail.com**
 
@@ -45,11 +45,20 @@
 
   </p>
 
+<h3>🏆 GitHub Trophies </h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheikshaha" alt="sheikshaha" /></a> </p>
+
+<h3>📊 GitHub Stats: </h3>
+
+ </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sheikshaha&show_icons=true&locale=en&layout=compact" alt="sheikshaha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheikshaha&show_icons=true&locale=en" alt="sheikshaha" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheikshaha&theme=default&hide_border=false&include_all_commits=true&count_private=true" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sheikshaha&" alt="sheikshaha" /></p>
+
 
 </body>
 
