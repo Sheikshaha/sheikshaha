@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/sheikshaha2" target="blank"><img src="https://img.shields.io/twitter/follow/sheikshaha2?logo=twitter&style=for-the-badge" alt="sheikshaha2" /></a> </p>
 
-- 👨‍💻 [My Portfolio](https://sheikshaha.my.canva.site/) 
+- 👨‍💻 [**My Portfolio**](https://sheikshaha.my.canva.site/) 
 
 - 💬 Ask me about **Data Analysis, Data Wrangling, Data Cleanising, Data Visualization, Data Processing, and Project Management.**
 
 - 📫 How to reach me **m.sheikshaha@gmail.com**
 
-- 📄 [My Resume](https://drive.google.com/file/d/1JBYio3M3X1__5mMWidl0OnO_nLbPqey8/view)
+- 📄 [**My Resume**](https://drive.google.com/file/d/1JBYio3M3X1__5mMWidl0OnO_nLbPqey8/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
