@@ -1,7 +1,9 @@
+![logo](https://github.com/Sheikshaha/sheikshaha/blob/main/Banner.png)
+
 <head>
 
 <body>
-![logo](https://github.com/Sheikshaha/sheikshaha/blob/main/Banner.png)
+
 <h1 align="center">Hi 👋, I'm Sheik Shahul</h1>
 <h3 align="center">Data Analyat Intern @Abhyaz</h3>
 
