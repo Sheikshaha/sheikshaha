@@ -1,7 +1,5 @@
-![logo](https://github.com/Sheikshaha/sheikshaha/blob/main/Banner.png)
-
 <head>
-
+![MasterHead](https://github.com/Sheikshaha/sheikshaha/blob/main/Banner.png)
 <body>
 
 <h1 align="center">Hi 👋, I'm Sheik Shahul</h1>
