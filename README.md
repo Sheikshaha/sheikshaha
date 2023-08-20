@@ -1,7 +1,10 @@
 <head>
-![MasterHead](https://github.com/Sheikshaha/sheikshaha/blob/main/Banner.png)
+
 <body>
 
+<div align="center">
+  <img src="https://github.com/Sheikshaha/sheikshaha/blob/main/Banner.png" alt="Banner" />
+</div>
 <h1 align="center">Hi 👋, I'm Sheik Shahul</h1>
 <h3 align="center">Data Analyat Intern @Abhyaz</h3>
 
