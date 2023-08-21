@@ -4,6 +4,8 @@
  
 <img align="center" src="https://github.com/Sheikshaha/sheikshaha/blob/main/Banner.png" alt="Banner" />
 
+  ![Filter Method](https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif)
+
 <h1 align="center">Hi 👋, I'm Sheik Shahul</h1>
 <h3 align="center">A passionate Data Analytics Enthusiast</h3>
 
@@ -17,6 +19,8 @@
         alt="LinkedIn" />
     </a>
   </p>
+
+### `👨‍💼 About Me:`
 
 - 🌱 I love learning as a process and mostly about new things...
 
@@ -36,8 +40,13 @@
 
 - 📄 [**My Resume**](https://drive.google.com/file/d/1JBYio3M3X1__5mMWidl0OnO_nLbPqey8/view)
 
-  <h3>Connect with me:</h3>
-  <p>
+### `🟦 Projects:`
+### [COVID Data Exploration: SQL in SQLserver Analysis and Insights](https://github.com/Sheikshaha/PortfolioProjects/tree/main/Covid%20Data%20Project)
+### [Bike Sales Dashboard in Excel: Data Visualization and Insights](https://github.com/Sheikshaha/PortfolioProjects/tree/main/Bike%20Sales%20Dashboard)
+### [Data Professionals in 2022: Insights and Analysis using Power BI](https://github.com/Sheikshaha/PortfolioProjects/tree/main/Data%20Professionals%20Survey)
+
+ ### `🔗 Connect With Me:`
+ <p>
     <a href="https://www.linkedin.com/in/sheikshaha/" target="blank">
       <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="40" width="40" />
     </a>
@@ -46,7 +55,7 @@
     </a>
   </p>
 
-  <h3>Languages and Tools:</h3>
+### `🛠️ Languages and Tools:`
   <p>
     <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" width="40" height="40" />
     <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40" height="40" />
@@ -59,13 +68,13 @@
 
   </p>
 
-<h3>🏆 GitHub Trophies </h3>
+### `🏆 GitHub Trophies:`
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheikshaha" alt="sheikshaha" /></a> </p>
 
-  ![Filter Method](https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif)
+<img align="right" alt="code"  height="400" width="400" src = "https://user-images.githubusercontent.com/94888819/179503858-d2f6d197-7a3f-495b-888c-5a60679bed94.gif"> 
 
-<h3>📊 GitHub Stats: </h3>
+### `📊 GitHub Stats:`
 
  </p>
 
