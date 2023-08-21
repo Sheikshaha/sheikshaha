@@ -18,7 +18,7 @@
     </a>
   </p>
 
-### `👨‍💼 About Me:`
+### ` About Me:`
 
 - 🌱 I love learning as a process and mostly about new things...
 
