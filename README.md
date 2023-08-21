@@ -36,8 +36,6 @@
     </a>
   </p>
 
-<img align="right" alt="coding" width="400" src="[https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif](https://user-images.githubusercontent.com/94888819/179503858-d2f6d197-7a3f-495b-888c-5a60679bed94.gif)">
-
   <h3>Languages and Tools:</h3>
   <p>
     <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" width="40" height="40" />
