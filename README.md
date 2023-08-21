@@ -5,7 +5,7 @@
   ![Filter Method](https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif)
 
 <h1 align="center">Hi 👋, I'm Sheik Shahul</h1>
-<h3 align="center">A passionate Data Analytics Enthusiast</h3>
+<h3 align="center">A Passionate Data Analytics Enthusiast</h3>
 
 <img align="right" alt="coding" width="400" src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">
 
