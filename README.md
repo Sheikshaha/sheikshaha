@@ -36,6 +36,8 @@
     </a>
   </p>
 
+<img align="right" alt="coding" width="400" src="[https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif](https://user-images.githubusercontent.com/94888819/179503858-d2f6d197-7a3f-495b-888c-5a60679bed94.gif)">
+
   <h3>Languages and Tools:</h3>
   <p>
     <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" width="40" height="40" />
@@ -52,6 +54,8 @@
 <h3>🏆 GitHub Trophies </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheikshaha" alt="sheikshaha" /></a> </p>
+
+  ![Filter Method](https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif)
 
 <h3>📊 GitHub Stats: </h3>
 
