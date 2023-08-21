@@ -39,9 +39,9 @@
 - 📄 [**My Resume**](https://drive.google.com/file/d/1JBYio3M3X1__5mMWidl0OnO_nLbPqey8/view)
 
 ### `🟦 Projects:`
-#### [COVID Data Exploration: SQL in SQLserver Analysis and Insights](https://github.com/Sheikshaha/PortfolioProjects/tree/main/Covid%20Data%20Project)
-#### [Bike Sales Dashboard in Excel: Data Visualization and Insights](https://github.com/Sheikshaha/PortfolioProjects/tree/main/Bike%20Sales%20Dashboard)
-#### [Data Professionals in 2022: Insights and Analysis using Power BI](https://github.com/Sheikshaha/PortfolioProjects/tree/main/Data%20Professionals%20Survey)
+#### COVID Data Exploration: [SQL in SQLserver Analysis and Insights](https://github.com/Sheikshaha/PortfolioProjects/tree/main/Covid%20Data%20Project)
+#### Bike Sales Dashboard in Excel: [Data Visualization and Insights](https://github.com/Sheikshaha/PortfolioProjects/tree/main/Bike%20Sales%20Dashboard)
+#### Data Professionals in 2022: [Insights and Analysis using Power BI](https://github.com/Sheikshaha/PortfolioProjects/tree/main/Data%20Professionals%20Survey)
 
  ### `🔗 Connect With Me:`
  <p>
