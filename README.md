@@ -18,9 +18,19 @@
     </a>
   </p>
 
+- 🌱 I love learning as a process and mostly about new things...
+
+- 🔭 I’m currently working as an Intern at <a href="https://abhyaz.com/" target="blank"><img align="center" src="https://www.abhyaz.com/Abhyaz.logo.jpg" alt="Abhyaz" height="20" width="60" /></a>
+
 - 👨‍💻 [**My Portfolio**](https://sheikshaha.my.canva.site/) 
 
-- 💬 Ask me about: **Data Analysis, Data Wrangling, Data Cleansing, Data Visualization, Data Processing, and Project Management.**
+- 💬 Ask me about: **Data Analysis, Data Enrichment, Data Cleansing, Data Visualization, Data Processing, and Project Management.**
+
+- 🌱 I’m currently learning [**Google Advanced Data Analytics**](https://www.coursera.org/professional-certificates/google-advanced-data-analytics)
+
+- 👯 I’m looking to collaborate on **on all topics related to Data Analytics**
+
+- 🌱 I’m currently mastering **Python, SQL, Excel, Power Bi, and Tableau**
 
 - 📫 Contact me **m.sheikshaha@gmail.com**
 
