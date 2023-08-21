@@ -39,9 +39,9 @@
 - 📄 [**My Resume**](https://drive.google.com/file/d/1JBYio3M3X1__5mMWidl0OnO_nLbPqey8/view)
 
 ### `🟦 Projects:`
-### [COVID Data Exploration: SQL in SQLserver Analysis and Insights](https://github.com/Sheikshaha/PortfolioProjects/tree/main/Covid%20Data%20Project)
-### [Bike Sales Dashboard in Excel: Data Visualization and Insights](https://github.com/Sheikshaha/PortfolioProjects/tree/main/Bike%20Sales%20Dashboard)
-### [Data Professionals in 2022: Insights and Analysis using Power BI](https://github.com/Sheikshaha/PortfolioProjects/tree/main/Data%20Professionals%20Survey)
+#### [COVID Data Exploration: SQL in SQLserver Analysis and Insights](https://github.com/Sheikshaha/PortfolioProjects/tree/main/Covid%20Data%20Project)
+#### [Bike Sales Dashboard in Excel: Data Visualization and Insights](https://github.com/Sheikshaha/PortfolioProjects/tree/main/Bike%20Sales%20Dashboard)
+#### [Data Professionals in 2022: Insights and Analysis using Power BI](https://github.com/Sheikshaha/PortfolioProjects/tree/main/Data%20Professionals%20Survey)
 
  ### `🔗 Connect With Me:`
  <p>
@@ -70,7 +70,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheikshaha" alt="sheikshaha" /></a> </p>
 
-<img align="right" alt="code"  height="400" width="400" src = "https://user-images.githubusercontent.com/94888819/179503858-d2f6d197-7a3f-495b-888c-5a60679bed94.gif"> 
+<img align="right" alt="code"  height="400" width="400" src = "https://www.caxsol.com/assets/img/data-analysis.gif"> 
 
 ### `📊 GitHub Stats:`
 
