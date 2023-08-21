@@ -5,7 +5,7 @@
 <img align="center" src="https://github.com/Sheikshaha/sheikshaha/blob/main/Banner.png" alt="Banner" />
 
 <h1 align="center">Hi 👋, I'm Sheik Shahul</h1>
-<h3 align="center">Data Analyat Intern @Abhyaz</h3>
+<h3 align="center">A passionate Data Analytics Enthusiast</h3>
 
 <img align="right" alt="coding" width="400" src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">
 
