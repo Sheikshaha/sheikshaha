@@ -30,7 +30,7 @@
 
 - 🌱 I’m currently learning [**Google Advanced Data Analytics**](https://www.coursera.org/professional-certificates/google-advanced-data-analytics)
 
-- 👯 I’m looking to collaborate **on all topics related to Data Analytics**
+- 🤝 I’m looking to collaborate **on all topics related to Data Analytics**
 
 - 🌱 I’m currently mastering **Python, SQL, Excel, Power Bi, and Tableau**
 
