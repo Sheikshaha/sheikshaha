@@ -2,8 +2,6 @@
 
 <body>
  
-<img align="center" src="https://github.com/Sheikshaha/sheikshaha/blob/main/Banner.png" alt="Banner" />
-
   ![Filter Method](https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif)
 
 <h1 align="center">Hi 👋, I'm Sheik Shahul</h1>
