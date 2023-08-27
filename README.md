@@ -42,6 +42,8 @@
 - #### COVID Data Exploration: [SQL in SQLserver Analysis and Insights](https://github.com/Sheikshaha/PortfolioProjects/tree/main/Covid%20Data%20Project)
 - #### Bike Sales Dashboard in Excel: [Data Visualization and Insights](https://github.com/Sheikshaha/PortfolioProjects/tree/main/Bike%20Sales%20Dashboard)
 - #### Data Professionals in 2022: [Insights and Analysis using Power BI](https://github.com/Sheikshaha/PortfolioProjects/tree/main/Data%20Professionals%20Survey)
+- #### Data Cleaning Mastery: [SQL Project for Efficient Data Cleansing](https://github.com/Sheikshaha/PortfolioProjects/tree/main/Nashville%20Housing%20%20Data%20Cleaning%20Project)
+- #### Tableau Mastery: [Data Visualization Project for Airbnb Insights](https://github.com/Sheikshaha/PortfolioProjects/tree/main/Seattle%20Airbnb%20Open%20Data)
 
  ### `🔗 Connect With Me:`
  <p>
