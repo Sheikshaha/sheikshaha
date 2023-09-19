@@ -36,7 +36,7 @@
 
 - 📫 Contact me **m.sheikshaha@gmail.com**
 
-- 📄 [**My Resume**](https://drive.google.com/file/d/1JBYio3M3X1__5mMWidl0OnO_nLbPqey8/view)
+- 📄 [**My Resume**](https://drive.google.com/file/d/1LLEv1LXwFy9f2loRxFH9LmK_7pgVn41o/view?usp=sharing)
 
 ### `🟦 Projects:`
 - #### COVID Data Exploration: [SQL in SQLserver Analysis and Insights](https://github.com/Sheikshaha/PortfolioProjects/tree/main/Covid%20Data%20Project)
