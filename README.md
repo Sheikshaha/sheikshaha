@@ -24,7 +24,7 @@
 
 - 🔭 I’m currently working as an Intern at <a href="https://abhyaz.com/" target="blank"><img align="center" src="https://www.abhyaz.com/Abhyaz.logo.jpg" alt="Abhyaz" height="20" width="60" /></a>
 
-- 👨‍💻 [**My Portfolio**](https://sheikshaha.my.canva.site/) 
+- <a href="https://sheikshaha.my.canva.site/" target="_blank">👨‍💻 My Portfolio</a>
 
 - 💬 Ask me about: **Data Analysis, Data Enrichment, Data Cleansing, Data Visualization, Data Processing, and Project Management.**
 
